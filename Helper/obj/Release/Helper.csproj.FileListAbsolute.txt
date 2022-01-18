@@ -1,0 +1,38 @@
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\bin\Release\Helper.exe
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\bin\Release\Helper.pdb
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Release\Helper.Form1.resources
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Release\Helper.Properties.Resources.resources
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Release\Helper.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Release\Helper.exe
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Release\Helper.pdb
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\bin\Release\Helper.exe.config
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.exe
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.pdb
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\bin\Release\Helper.exe
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\bin\Release\Helper.pdb
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.Form1.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.Form2.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.HelperAddSite.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.Input_Box.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.LoadBarBox.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.MessageBoxClass.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.Properties.Resources.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.csproj.GenerateResource.Cache
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.csprojResolveAssemblyReference.cache
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\bin\Release\Helper.exe.config
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.exe
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Release\Helper.pdb
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\bin\Release\Helper.exe.config
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.exe
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.pdb
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\bin\Release\Helper.exe
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\bin\Release\Helper.pdb
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.csprojResolveAssemblyReference.cache
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.Form1.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.Form2.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.HelperAddSite.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.Input_Box.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.LoadBarBox.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.MessageBoxClass.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.Properties.Resources.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Release\Helper.csproj.GenerateResource.Cache

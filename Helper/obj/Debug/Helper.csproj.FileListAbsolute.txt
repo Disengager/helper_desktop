@@ -1,0 +1,136 @@
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\bin\Debug\Helper.exe
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\bin\Debug\Helper.pdb
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Debug\Helper.Form1.resources
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Debug\Helper.exe
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Debug\Helper.pdb
+C:\Users\HP\Desktop\Курсовая\Helper\Helper\obj\Debug\Helper.Form2.resources
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\obj\Debug\Helper.exe
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\obj\Debug\Helper.pdb
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\bin\Debug\Helper.exe
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\bin\Debug\Helper.pdb
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\obj\Debug\Helper.Form1.resources
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\obj\Debug\Helper.Form2.resources
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\bin\Debug\Helper.exe.config
+C:\Users\HP\Desktop\рабочий стол\Курсовая\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+F:\This is\Пограммирование\_Helper_\Helper\Helper\bin\Debug\Helper.exe.config
+F:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.exe
+F:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.pdb
+F:\This is\Пограммирование\_Helper_\Helper\Helper\bin\Debug\Helper.exe
+F:\This is\Пограммирование\_Helper_\Helper\Helper\bin\Debug\Helper.pdb
+F:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+F:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form1.resources
+F:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form2.resources
+F:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+F:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+G:\This is\Пограммирование\_Helper_\Helper\Helper\bin\Debug\Helper.exe.config
+G:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.exe
+G:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.pdb
+G:\This is\Пограммирование\_Helper_\Helper\Helper\bin\Debug\Helper.exe
+G:\This is\Пограммирование\_Helper_\Helper\Helper\bin\Debug\Helper.pdb
+G:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+G:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form1.resources
+G:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form2.resources
+G:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+G:\This is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.exe
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.pdb
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form1.resources
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form2.resources
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+G:\This_is\Пограммирование\_Helper_\Helper\Helper.exe.config
+G:\This_is\Пограммирование\_Helper_\Helper\Helper.exe
+G:\This_is\Пограммирование\_Helper_\Helper\Helper.pdb
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.exe.config
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.exe
+G:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.pdb
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.exe.config
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.exe
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.pdb
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form1.resources
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form2.resources
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.MessageBoxClass.resources
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.exe
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.pdb
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Input_Box.resources
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.LoadBarBox.resources
+F:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.HelperAddSite.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.exe.config
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.exe
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.pdb
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form1.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form2.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.HelperAddSite.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Input_Box.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.LoadBarBox.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.MessageBoxClass.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.exe
+H:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.pdb
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.exe.config
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.exe
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.pdb
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form1.resources
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Form2.resources
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.HelperAddSite.resources
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Input_Box.resources
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.LoadBarBox.resources
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.MessageBoxClass.resources
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.exe
+E:\This_is\Пограммирование\_Helper_\Helper\Helper\Helper.pdb
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\Helper.exe.config
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.exe
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.pdb
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.Form1.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.Form2.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.HelperAddSite.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.Input_Box.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.LoadBarBox.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.MessageBoxClass.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\Helper.exe
+F:\This_is\Programm\_Helper_\New folder\Helper\Helper\Helper.pdb
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.Form1.resources
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.Form2.resources
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.HelperAddSite.resources
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.Input_Box.resources
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.LoadBarBox.resources
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.MessageBoxClass.resources
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+F:\This_is\Programm\_Helper_\Helper\Helper\Helper.exe.config
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.exe
+F:\This_is\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.pdb
+F:\This_is\Programm\_Helper_\Helper\Helper\Helper.exe
+F:\This_is\Programm\_Helper_\Helper\Helper\Helper.pdb
+F:\Documents\Programm\_Helper_\Helper\Helper\Helper.exe.config
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.exe
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.pdb
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.Form1.resources
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.Form2.resources
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.HelperAddSite.resources
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.Input_Box.resources
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.LoadBarBox.resources
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.MessageBoxClass.resources
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+F:\Documents\Programm\_Helper_\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+F:\Documents\Programm\_Helper_\Helper\Helper\Helper.exe
+F:\Documents\Programm\_Helper_\Helper\Helper\Helper.pdb

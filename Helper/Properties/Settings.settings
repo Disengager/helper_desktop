@@ -1,0 +1,94 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Helper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SplitPosition" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Size" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">597, 458</Value>
+    </Setting>
+    <Setting Name="ButtonsName" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Helper&lt;/string&gt;
+  &lt;string&gt;Смотреть&lt;/string&gt;
+  &lt;string&gt;Добавить&lt;/string&gt;
+  &lt;string&gt;Удалить&lt;/string&gt;
+  &lt;string&gt;Редактировать&lt;/string&gt;
+  &lt;string&gt;Название&lt;/string&gt;
+  &lt;string&gt;Ссылку&lt;/string&gt;
+  &lt;string&gt;Сейчас&lt;/string&gt;
+  &lt;string&gt;Всего&lt;/string&gt;
+  &lt;string&gt;Оценка&lt;/string&gt;
+  &lt;string&gt;Ок&lt;/string&gt;
+  &lt;string&gt;Отмена&lt;/string&gt;
+  &lt;string&gt;Смена названия&lt;/string&gt;
+  &lt;string&gt;Введите новое название&lt;/string&gt;
+  &lt;string&gt;Не корректные данные&lt;/string&gt;
+  &lt;string&gt;Смена ссылки&lt;/string&gt;
+  &lt;string&gt;Введите новую ссылку&lt;/string&gt;
+  &lt;string&gt;Сохранить&lt;/string&gt;
+  &lt;string&gt;Применить&lt;/string&gt;
+  &lt;string&gt;Отмена&lt;/string&gt;
+  &lt;string&gt;Цвет&lt;/string&gt;
+  &lt;string&gt;Шрифт&lt;/string&gt;
+  &lt;string&gt;Добавление нового стиля&lt;/string&gt;
+  &lt;string&gt;Введите название&lt;/string&gt;
+  &lt;string&gt;Свой стиль..&lt;/string&gt;
+  &lt;string&gt;Другие шрифты&lt;/string&gt;
+  &lt;string&gt;Дизайн&lt;/string&gt;
+  &lt;string&gt;Обновить&lt;/string&gt;
+  &lt;string&gt;Скопировать название&lt;/string&gt;
+  &lt;string&gt;Доп. Инфо.&lt;/string&gt;
+  &lt;string&gt;Авто. Обнов.&lt;/string&gt;
+  &lt;string&gt;Элемент&lt;/string&gt;
+  &lt;string&gt;Сайт&lt;/string&gt;
+  &lt;string&gt;Добавление&lt;/string&gt;
+  &lt;string&gt;Введите ссылку на нужную  страницу&lt;/string&gt;
+  &lt;string&gt;Сайта нет в базе данных&lt;/string&gt;
+  &lt;string&gt;Закачка дополнительной утилиты&lt;/string&gt;
+  &lt;string&gt;Картинку&lt;/string&gt;
+  &lt;string&gt;Из ссылки&lt;/string&gt;
+  &lt;string&gt;Из файла&lt;/string&gt;
+  &lt;string&gt;Сохранить резервную копию?&lt;/string&gt;
+  &lt;string&gt;Загрузить резервную копию&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Config" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;40&lt;/string&gt;
+  &lt;string&gt;all &lt;/string&gt;
+  &lt;string&gt;Режимы:view,allreadyview,all&lt;/string&gt;
+  &lt;string&gt;30&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SiteInfo" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;online.anidub.[=_=]&amp;lt;title&amp;gt;[=_=]&amp;lt;/title&amp;gt;[=_=] [[=_=] из [=_=]"image_src" href="[=_=]"&lt;/string&gt;
+  &lt;string&gt;animevost.org[=_=] / [=_=][[=_=][1-[=_=] из [=_=]"imgRadius" src="[=_=]"&lt;/string&gt;
+  &lt;string&gt;www.lostfilm.tv[=_=] ([=_=])[=_=]&amp;lt;td class="t_episode_num" rowspan="2"&amp;gt;[=_=]&amp;lt;[=_=]	&amp;lt;img src="[=_=]"&lt;/string&gt;
+  &lt;string&gt;vk.com/videos[=_=]&amp;lt;title&amp;gt;[=_=] | [=_=]class="summary fl_l"&amp;gt;[=_=] [=_=] style="background-image: url('[=_=]')"&lt;/string&gt;
+  &lt;string&gt;amvnews.ru[=_=]&amp;lt;title&amp;gt;[=_=]&amp;lt;/title&amp;gt;[=_=]in=view&amp;amp;amp;id=[=_=]&amp;lt;/link&amp;gt;[=_=]align=&amp;amp;quot;center&amp;amp;quot;&amp;amp;gt;&amp;amp;lt;img src=&amp;amp;quot;[=_=]&amp;amp;quot&lt;/string&gt;
+  &lt;string&gt;newstudio.tv[=_=]  class="active"&amp;gt;[=_=]&amp;lt;/a&amp;gt;[=_=]РЎРµСЂРёСЏ[=_=])[=_=]class="postImg" title="[=_=]"&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Style" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;//Font(Name,Size)&lt;/string&gt;
+  &lt;string&gt;Microsoft Sans Serif&lt;/string&gt;
+  &lt;string&gt;8,25&lt;/string&gt;
+  &lt;string&gt;//Color(Указываеться три цвета, цвет фона, цвет компонентов, цвет шрифта, указываеть в виде RGB: 192, 0, 0; 255, 255, 255)&lt;/string&gt;
+  &lt;string&gt;246, 245, 240&lt;/string&gt;
+  &lt;string&gt;239, 226, 207&lt;/string&gt;
+  &lt;string&gt;115, 99, 86&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ReserveCopy" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
